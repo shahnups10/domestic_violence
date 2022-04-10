@@ -1,0 +1,53 @@
+body{
+    background-color:#D9E6E9;
+    font-family:cursive, 
+}
+.assignments{
+    display:flex;
+    flex-wrap: wrap;
+}
+.assignment{
+    width: 22%;
+    padding:20px;
+    margin:10px;
+    background-color:#2b7d81;
+    border-radius: 10px;
+}
+.assignment img{
+    margin: 10px;
+    border:4px solid #BABF21;
+    display:block;
+    margin:auto;
+    box-align: center;
+
+}
+.assignment img:hover{
+    border:4px dashed #F2F2F0;
+}
+h1{color: #BF0404;
+text-align: center;
+}
+h3{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h1:hover{color: gold;
+    }
+a{
+    text-decoration:none;
+    color:#BABF21;
+}
+ 
+a:hover{
+    color: #F2F2F0;
+}
+
+p{
+    color: gold;
+}
+.img{
+    
+    box-align: center;
+}
